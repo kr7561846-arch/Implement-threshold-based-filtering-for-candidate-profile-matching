@@ -1,2 +1,2 @@
-Implement threshold-based-filtering for candidate profile matching
+#Implement threshold-based-filtering for candidate profile matching
 Searching for the right candidate in a sea of PDFs is a classic "needle in a haystack' problem. I built this project to automate the heavy lifting of recruitment. This tool uses NLP to actually "read" resumes, compare them to a job description and rank them based on how well they actually fit the role with 90% accuracy.
